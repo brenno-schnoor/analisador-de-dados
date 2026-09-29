@@ -1,0 +1,18 @@
+# Ambientes
+venv/
+env/
+.venv/
+
+# Cache
+__pycache__/
+*.py[cod]
+
+# Streamlit config
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# SO e IDE
+.DS_Store
+.vscode/
+.idea/
+*.log
