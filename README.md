@@ -20,7 +20,7 @@ Uma aplicação web gráfica e interativa desenvolvida em Python para análise r
 
 1. Clone o repositório para o seu ambiente local:
 ```bash
-git clone [https://github.com/seu-usuario/analisador-de-dados.git](https://github.com/seu-usuario/analisador-de-dados.git)
+[git clone [https://github.com/seu-usuario/analisador-de-dados.git](https://github.com/seu-usuario/analisador-de-dados.git)](https://github.com/brenno-schnoor/analisador-de-dados.git)
 ```
 
 2. Acesse a pasta do projeto:
