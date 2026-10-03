@@ -24,7 +24,7 @@ if uploaded_file is not None:
         
         # Exibição dos dados
         st.subheader("📋 Visualização dos Dados")
-        st.dataframe(df.head(10))
+        st.dataframe(df)
         
         # Informações gerais
         col1, col2 = st.columns(2)
